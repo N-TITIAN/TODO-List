@@ -229,8 +229,7 @@ function saveEditedItem(id, newText) {
 
 //deleteitem
 function deleteTodoItem(todoId) {
-  // const todo = TODOS.find((todo) => todo.id === todoId);
-  // const todoItem = document.getElementById("todoItem" + todo.id);
+
   let todos = TODOS;
   todos.forEach((todo) => {
     if (todo.id === todoId) {
