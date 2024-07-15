@@ -4,7 +4,7 @@
 Welcome to the Dynamic Todo List App! 🚀 This project is built using HTML,CSS, and JavaScript.
 
 Here is the live link of the project 
-
+https://todo-vanila-js.netlify.app/
 
 ## Table of Contents
 
