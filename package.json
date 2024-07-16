@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Todo Application with Vanilla JavaScript",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-    "build": "cross-env NODE_ENV=production vite build"
+    "build": "vite build"
     
   },
   "keywords": [],
